@@ -49,7 +49,7 @@ Você pode usar o Postman ou qualquer outra ferramenta de teste de API para test
 
 - POST `/api/accounts`: Cria uma nova conta
 - GET `/api/accounts/{id}`: Obtém detalhes de uma conta
-- - GET `/api/accounts`: Obtém detalhes de todas as contas
+- GET `/api/accounts`: Obtém detalhes de todas as contas
 - PUT `/api/accounts/{id}/deposit`: Deposita dinheiro em uma conta
 - PUT `/api/accounts/{id}/withdraw`: Sacar dinheiro de uma conta
 - DELETE `/api/accounts/{id}`: Exclui uma conta
